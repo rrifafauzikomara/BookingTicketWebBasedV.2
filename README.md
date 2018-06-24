@@ -1,6 +1,6 @@
 # Aplikasi-Pemesanan-Ticket-Berbasis-Web-V.2
 
-# Deskripsi Aplikasi :
+## Deskripsi Aplikasi :
 1.  Kelanjutan dari https://github.com/rrifafauzikomara/Aplikasi-Pemesanan-Ticket-Berbasis-Web-V.1
 2.  Mempunyai 3 actor : user biasa, user member (login) dan admin (login)
 3.  Untuk login admin : user = admin dan pass = admin
@@ -9,6 +9,17 @@
 6.  Untuk demo login aplikasi android : user = rifa dan pass : fauzi
 7.  Jika melakukan register, harap verifikasi akun tersebut melaui website http://r-fauzi.xyz dibagian admin, jika sudah makan akun tersebut dapat login aplikasi android.
 
+## Screenshot Aplikasi Android
+<pre>
+<img src="Screenshot_2018-02-14-13-55-10.png" width="250" height="444">         <img src="Screenshot_2018-02-14-13-55-30.png" width="250" height="444">         <img src="Screenshot_2018-02-14-13-55-38.png" width="250" height="444">         <img src="Screenshot_2018-02-14-13-55-52.png" width="250" height="444">         <img src="Screenshot_2018-02-14-13-55-59.png" width="250" height="444">         <img src="Screenshot_2018-02-14-13-56-08.png" width="250" height="444">
+</pre>
+
+<pre>
+<img src="Screenshot_2018-02-14-13-56-16.png" width="250" height="444">         <img src="Screenshot_2018-02-14-13-56-32.png" width="250" height="444">         <img src="Screenshot_2018-02-14-13-56-49.png" width="250" height="444">         <img src="Screenshot_2018-02-14-13-56-58.png" width="250" height="444">         <img src="Screenshot_2018-02-14-13-57-08.png" width="250" height="444">
+</pre>
+
+## Demo Aplikasi Website
 Untuk Demo Website : http://r-fauzi.xyz
 
-Untuk Source Code Website, Aplikasi Android, dan Databasenya bisa hub : 081222300420
+## Source Code Aplikasi Android, Website dan Database ?
+Hub : 081222300420
