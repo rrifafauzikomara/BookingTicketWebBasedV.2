@@ -21,7 +21,7 @@
 ## Demo Aplikasi Website
 Untuk Demo Website : http://r-fauzi.xyz
 
-## Demo Apliasi Android
+## Demo Aplikasi Android
 Donwload dan Install Aplikasinya di : https://drive.google.com/open?id=18y97hdUn3PcDtWGa0ia4rhgtlrdo24Jd
 <br>Note : Pilih yang "debug" untuk di install, karna yang release untuk di upload di PlayStore
 
