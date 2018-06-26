@@ -1,4 +1,4 @@
-# Aplikasi-Pemesanan-Ticket-Berbasis-Web-V.2
+# Aplikasi Pemesanan Ticket Berbasis Web V.2
 
 ## Deskripsi Aplikasi :
 1.  Kelanjutan dari https://github.com/rrifafauzikomara/Aplikasi-Pemesanan-Ticket-Berbasis-Web-V.1
