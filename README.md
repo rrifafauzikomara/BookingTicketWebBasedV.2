@@ -1,13 +1,13 @@
 # Aplikasi Pemesanan Ticket Berbasis Web V.2
 
 ## Deskripsi Aplikasi :
-1.  Kelanjutan dari https://github.com/rrifafauzikomara/Aplikasi-Pemesanan-Ticket-Berbasis-Web-V.1
+1.  Kelanjutan dari <a href="https://github.com/rrifafauzikomara/Aplikasi-Pemesanan-Ticket-Berbasis-Web-V.1">sini</a>
 2.  Mempunyai 3 actor : user biasa, user member (login) dan admin (login)
 3.  Untuk login admin : user = admin dan pass = admin
 4.  Untuk menu Lokasi, didapatkan setelah melakukan tracking berbasi mobile (android) dengan menginputkan lokasi berdasarkan id kendaraan (no polisi bus)
-5.  Untuk demo aplikasi android bisa di download di : https://drive.google.com/open?id=18y97hdUn3PcDtWGa0ia4rhgtlrdo24Jd
+5.  Untuk demo aplikasi android bisa di download di <a href="https://drive.google.com/open?id=18y97hdUn3PcDtWGa0ia4rhgtlrdo24Jd">sini</a>
 6.  Untuk demo login aplikasi android : user = rifa dan pass : fauzi
-7.  Jika melakukan register, harap verifikasi akun tersebut melaui website http://r-fauzi.xyz dibagian admin, jika sudah makan akun tersebut dapat login aplikasi android.
+7.  Jika melakukan register, harap verifikasi akun tersebut melaui website <a href="http://r-fauzi.xyz">saya</a> dibagian admin, jika sudah makan akun tersebut dapat login aplikasi android.
 
 ## Screenshot Aplikasi Android
 <pre>
@@ -19,10 +19,10 @@
 </pre>
 
 ## Demo Aplikasi Website
-Untuk Demo Website : http://r-fauzi.xyz
+Untuk Demo Website <a href="http://r-fauzi.xyz">Klik</a>
 
 ## Demo Aplikasi Android
-Donwload dan Install Aplikasinya di : https://drive.google.com/open?id=18y97hdUn3PcDtWGa0ia4rhgtlrdo24Jd
+Donwload dan Install Aplikasinya di <a href="https://drive.google.com/open?id=18y97hdUn3PcDtWGa0ia4rhgtlrdo24Jd">sini</a>
 <br>Note : Pilih yang "debug" untuk di install, karna yang release untuk di upload di PlayStore
 
 ## Source Code Aplikasi Android, Website dan Database ?
