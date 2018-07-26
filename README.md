@@ -7,7 +7,7 @@
 4.  Untuk menu Lokasi, didapatkan setelah melakukan tracking berbasi mobile (android) dengan menginputkan lokasi berdasarkan id kendaraan (no polisi bus)
 5.  Untuk demo aplikasi android bisa di download di <a href="https://drive.google.com/open?id=18y97hdUn3PcDtWGa0ia4rhgtlrdo24Jd">sini</a>
 6.  Untuk demo login aplikasi android : user = rifa dan pass : fauzi
-7.  Jika melakukan register, harap verifikasi akun tersebut melaui website <a href="http://r-fauzi.xyz">saya</a> dibagian admin, jika sudah makan akun tersebut dapat login aplikasi android.
+7.  Jika melakukan register, harap verifikasi akun tersebut melaui website <a href="http://r-fauzi.xyz">Kami</a> dibagian admin, jika sudah makan akun tersebut dapat login aplikasi android.
 
 ## Screenshot Aplikasi Android
 <pre>
