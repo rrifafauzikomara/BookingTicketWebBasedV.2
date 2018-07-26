@@ -24,6 +24,3 @@ Untuk Demo Website <a href="http://r-fauzi.xyz">Klik</a>
 ## Demo Aplikasi Android
 Donwload dan Install Aplikasinya di <a href="https://drive.google.com/open?id=18y97hdUn3PcDtWGa0ia4rhgtlrdo24Jd">sini</a>
 <br>Note : Pilih yang "debug" untuk di install, karna yang release untuk di upload di PlayStore
-
-## Source Code Aplikasi Android, Website dan Database ?
-Hub : 081222300420
