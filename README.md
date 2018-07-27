@@ -26,8 +26,12 @@ Donwload dan Install Aplikasinya di <a href="https://drive.google.com/open?id=18
 <br>Note : Pilih yang "debug" untuk di install, karna yang release untuk di upload di PlayStore
 
 ### Source Code
-Link Source Code Android : <a href="https://gitlab.com/rrifafauzikomara/Tracking">Klik Me</a>
-Link Source Code API dan Website : <a href="https://gitlab.com/rrifafauzikomara/Website">Klik Me</a>
+1. Link Source Code Android : <a href="https://gitlab.com/rrifafauzikomara/Tracking">Klik Me</a>
+2. Link Source Code API dan Website : <a href="https://gitlab.com/rrifafauzikomara/Website">Klik Me</a>
 
 ### Petunjuk menjalankan source code aplikasi
-Jika anda ingin menjalankan aplikasi android secara local menggunakan IP jaringan laptop dan HP anda, silahkan ganti IPnya di file ***Server.java***
+1. Jika anda ingin menjalankan aplikasi android secara local menggunakan IP jaringan laptop dan HP anda, silahkan ganti IPnya di file **Server.java**
+2. Setelah membuka website melalui link diatas, pilih menu **Cek Pesanan** dan masukan no booking yang sudah di booking yaitu ***100*** kemudian pilih aksi **Cetak QR Code** untuk mendapatkan data QR Code.
+3. Register dan Login pada aplikasi android yang telah terinstall / menggunakan akun diatas untuk mendemo aplikasinya, setelah login pilih menu **Scan QR COde** pada Navigation Drawer untuk mengecek data ***QR Code*** yang telah di dapatkan tadi apakah sesuai datanya atau tidak atau sukses atau gagal.
+4. Kemudian untuk menu **Profile** digunakan untuk pegawai yang ingin eksis dan mengupload foto mereka
+5. Menu **Tracking** digunakan untuk menandai Bus yang dijelajahi telah berhenti di tempat peristirahatan tersebut sehingga dapat di cek oleh orang tua yang khawatir melalu link ***Website*** diatas dimenu ***Lokasi*** dengan menginputkan Id Kendaraan yang sesuai dengan waktu tracking pegawai.
