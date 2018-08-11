@@ -27,7 +27,6 @@ Donwload dan Install Aplikasinya di <a href="https://drive.google.com/open?id=18
 
 ### Source Code
 1. Link Source Code Android : <a href="https://gitlab.com/rrifafauzikomara/Tracking">Klik Me</a>
-2. Link Source Code API dan Website : <a href="https://gitlab.com/rrifafauzikomara/Website">Klik Me</a>
 
 ### Petunjuk menjalankan source code aplikasi
 1. Jika anda ingin menjalankan aplikasi android secara local menggunakan IP jaringan laptop dan HP anda, silahkan ganti IPnya di file **Server.java**
