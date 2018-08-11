@@ -34,3 +34,11 @@ Donwload dan Install Aplikasinya di <a href="https://drive.google.com/open?id=18
 3. Register dan Login pada aplikasi android yang telah terinstall / menggunakan akun diatas untuk mendemo aplikasinya, setelah login pilih menu **Scan QR COde** pada Navigation Drawer untuk mengecek data ***QR Code*** yang telah di dapatkan tadi apakah sesuai datanya atau tidak atau sukses atau gagal.
 4. Kemudian untuk menu **Profile** digunakan untuk pegawai yang ingin eksis dan mengupload foto mereka
 5. Menu **Tracking** digunakan untuk menandai Bus yang dijelajahi telah berhenti di tempat peristirahatan tersebut sehingga dapat di cek oleh orang tua yang khawatir melalu link ***Website*** diatas dimenu ***Lokasi*** dengan menginputkan Id Kendaraan yang sesuai dengan waktu tracking pegawai.
+
+## Author
+
+* **R Rifa Fauzi Komara**
+
+Jangan lupa untuk follow dan ★
+
+Untuk Database bisa hub : 081222300420
