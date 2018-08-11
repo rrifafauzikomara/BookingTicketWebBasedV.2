@@ -26,7 +26,7 @@ Donwload dan Install Aplikasinya di <a href="https://drive.google.com/open?id=18
 <br>Note : Pilih yang "debug" untuk di install, karna yang release untuk di upload di PlayStore
 
 ### Source Code
-1. Link Source Code Android : <a href="https://gitlab.com/rrifafauzikomara/Tracking">Klik Me</a>
+1. Link Source Code Android : <a href="https://github.com/rrifafauzikomara/TrackingApp">Klik Me</a>
 
 ### Petunjuk menjalankan source code aplikasi
 1. Jika anda ingin menjalankan aplikasi android secara local menggunakan IP jaringan laptop dan HP anda, silahkan ganti IPnya di file **Server.java**
