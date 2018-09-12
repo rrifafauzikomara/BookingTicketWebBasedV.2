@@ -19,7 +19,7 @@ Untuk Demo Website <a href="http://r-fauzi.xyz">Klik</a>
 3. Tunggu beberapa menit untuk validasi pembayaran oleh admin (Manual).
 3. Kemudian pilih menu **Cek Pesanan** dan masukan no booking yang sudah di bayar, kemudian pilih aksi **Cetak QR Code** untuk mendapatkan data QR Code.
 
-## Author
+### Author
 
 * **R Rifa Fauzi Komara**
 
